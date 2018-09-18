@@ -35,12 +35,6 @@
 			</dict>
 		</dict>
 	</dict>
-	<key>NSAppleMusicUsageDescription</key>
-	<string>test</string>
-	<key>NSBluetoothPeripheralUsageDescription</key>
-	<string>test</string>
-	<key>NSCalendarsUsageDescription</key>
-	<string>test</string>
 	<key>NSCameraUsageDescription</key>
 	<string>test</string>
 	<key>NSContactsUsageDescription</key>
@@ -53,15 +47,10 @@
 	<string>6.0</string>
 	<key>NSPhotoLibraryUsageDescription</key>
 	<string>test</string>
-	<key>NSRemindersUsageDescription</key>
-	<string>test</string>
-	<key>NSSpeechRecognitionUsageDescription</key>
-	<string>test</string>
 	<key>NSMotionUsageDescription</key>
 	<string>test</string>
 	<key>UIBackgroundModes</key>
 	<array>
-		<string>bluetooth-peripheral</string>
 		<string>fetch</string>
 		<string>location</string>
 	</array>
