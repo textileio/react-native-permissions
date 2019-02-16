@@ -3,13 +3,13 @@
   "version": "1.1.1",
   "description": "Check user permissions in React Native",
   "author": "Yonah Forst <yonaforst@hotmail.com>",
-  "homepage": "https://github.com/yonahforst/react-native-permissions",
+  "homepage": "https://github.com/textileio/react-native-permissions",
   "keywords": ["react-native", "react-permissions", "permissions"],
   "main": "index.js",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/yonahforst/react-native-permissions.git"
+    "url": "https://github.com/textileio/react-native-permissions.git"
   },
   "scripts": {
     "precommit": "lint-staged",
